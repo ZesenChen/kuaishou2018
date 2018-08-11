@@ -21,7 +21,7 @@
 以下代码段为设置窗口的参数：
 
 ===============================================================================
-
+```python
 TRAIN_PREDICT_DAY = range(10,17)
 TRAIN_REGISTER_DAT = range(1,10)
 TRAIN_ACT_DAT = range(-6,10)
@@ -29,7 +29,7 @@ TRAIN_ACT_DAT = range(-6,10)
 TEST_PREDICT_DAY = range(31,38)
 TEST_REGISTER_DAT = range(1,31)
 TEST_ACT_DAT = range(15,31)
-
+```
 ===============================================================================
 
 
