@@ -22,15 +22,13 @@
 
 ===========================================================
 
-TRAIN_PREDICT_DAY = range(10,17)#预测窗口,7天
-TRAIN_REGISTER_DAT = range(1,10)#注册时间段
-TRAIN_ACT_DAT = range(-6,10)#行为时间段
+TRAIN_PREDICT_DAY = range(10,17)
+TRAIN_REGISTER_DAT = range(1,10)
+TRAIN_ACT_DAT = range(-6,10)
 
-
-
-TEST_PREDICT_DAY = range(31,38)#预测窗口,7天
-TEST_REGISTER_DAT = range(1,31)#注册时间段
-TEST_ACT_DAT = range(15,31)#行为时间段
+TEST_PREDICT_DAY = range(31,38)
+TEST_REGISTER_DAT = range(1,31)
+TEST_ACT_DAT = range(15,31)
 
 ===========================================================
 
